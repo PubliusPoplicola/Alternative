@@ -1,2 +1,3 @@
-# Alternative
-Democratizing Politics
+# Alternative Party
+Programming a better California
+www.alt.party
